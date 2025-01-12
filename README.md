@@ -11,7 +11,7 @@ I am an aspiring data engineer with a passion for building scalable data pipelin
 ## 🛠️ Technical Skills  
 - **Programming Languages**: Python, SQL  
 - **Big Data Tools**: PySpark, Hadoop  
-- **Cloud Platforms**: Google Cloud Platform (GCP), AWS  
+- **Cloud Platforms**: Google Cloud Platform (GCP)  
 - **Data Warehousing**: Snowflake, BigQuery  
 - **Workflow Orchestration**: Apache Airflow  
 - **Version Control**: Git, GitHub  
