@@ -55,5 +55,5 @@ I am an aspiring data engineer with a passion for building scalable data pipelin
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arashad2024&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arashad2024&show_icons=true&theme=github)
