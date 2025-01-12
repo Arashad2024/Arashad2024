@@ -41,7 +41,7 @@ I am an aspiring data engineer with a passion for building scalable data pipelin
 ## 📫 Let's Connect!  
 - **LinkedIn**: [Linkedin Profile](https://www.linkedin.com/in/ahmed-rashad-045a43254/)  
 - **Email**: ahm.rashad.95@gmail.com  
-- **GitHub**: [GitHub Profile](https://github.com/Arashad2024)  
+- **Leetcode**: [Leetcode Profile](https://leetcode.com/u/jzELvRgK7F/) 
 
 ---
 
@@ -51,7 +51,7 @@ I am an aspiring data engineer with a passion for building scalable data pipelin
 ---
 
 ## 📊 Leetcode Stats  
-![Leetcode Stats](https://leetcard.jacoblin.cool/jzELvRgK7F)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/jzELvRgK7F) 
 
 ---
 
